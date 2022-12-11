@@ -18,7 +18,7 @@ Already in the middle of the second course, I thought and decided that I want to
 
 I started my studies with web design and now I want to become a full-fledged ront-end developer.
 
-I know languages such as Java script, CSS and HTML markup language.
+I know languages such as JavaScript, CSS and HTML markup language.
 
 ***
 ## Skills
@@ -27,5 +27,5 @@ I know languages such as Java script, CSS and HTML markup language.
 - C
 - HTML
 - CSS (More to average)
-- Java Script (More to average)
+- JavaScript (More to average)
 - Python
