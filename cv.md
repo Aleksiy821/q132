@@ -44,3 +44,9 @@ document.getElementById("price-action").onclick = function () {
    }
 }
 ```
+## Education
+
+Molodechno Trade and Economic College of Belkoopsoyuz (MTEC)
+
+
+
