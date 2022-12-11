@@ -29,3 +29,18 @@ I know languages such as JavaScript, CSS and HTML markup language.
 - CSS (More to average)
 - JavaScript (More to average)
 - Python
+
+## Code
+```
+document.getElementById("price-action").onclick = function () {
+   if (document.getElementById("name").value === "") {
+      alert("Запоните поле имя!");
+   } else if (document.getElementById("phone").value === "") {
+      alert("Запоните поле телефон!");
+   } else if (document.getElementById("car").value === "") {
+      alert("Запоните поле автомобиль!");
+   } else {
+      alert("Спасибо за заявку, мы свяжемся с вами в ближайшее время");
+   }
+}
+```
