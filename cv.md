@@ -1,11 +1,11 @@
 # Alexei Radimsky
 
 ## Contacts:
-Phone number - +375(29)649-94-73
+- Phone number - +375(29)649-94-73
 
-Discord - error_404.exe#6437
+- Discord - error_404.exe#6437
 
-Gmail - azemum39@gmail.com
+- Gmail - azemum39@gmail.com
 
 ## About me: 
 I am 18 years old.
@@ -19,3 +19,13 @@ Already in the middle of the second course, I thought and decided that I want to
 I started my studies with web design and now I want to become a full-fledged ront-end developer.
 
 I know languages such as Java script, CSS and HTML markup language.
+
+***
+## Skills
+- C#
+- Delphi
+- C
+- HTML
+- CSS (More to average)
+- Java Script (More to average)
+- Python
