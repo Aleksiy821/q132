@@ -29,6 +29,7 @@ I know languages such as JavaScript, CSS and HTML markup language.
 - CSS (More to average)
 - JavaScript (More to average)
 - Python
+- Figma
 
 ## Code
 ```
@@ -48,5 +49,9 @@ document.getElementById("price-action").onclick = function () {
 
 Molodechno Trade and Economic College of Belkoopsoyuz (MTEC)
 
+## Languages
 
+- English - A2
+- Belorussian - С2
+- Russian - C1
 
